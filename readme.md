@@ -1,0 +1,40 @@
+# 📊 Attendance Calculator
+
+A simple web application to help students calculate how many more lectures they need to attend to reach a desired attendance percentage.
+
+---
+
+### 🚀 Features
+
+- Calculates additional lectures required to meet target attendance.
+- Instant results using a clean and responsive interface.
+- Built using **HTML, CSS, and JavaScript** with no external libraries.
+
+---
+
+### 🛠️ Tech Stack
+
+- **HTML5** – Structure of the page
+- **CSS3** – Styling and layout
+- **JavaScript (Vanilla)** – Logic to compute attendance
+
+---
+
+### 📷 Screenshot
+
+> _(Add your project screenshot using the Markdown or HTML image tag here)_
+
+---
+
+### 🎯 Usage
+
+1. Enter:
+   - Total lectures conducted so far
+   - Lectures attended
+   - Your target attendance percentage
+2. Click **"Calculate"**
+3. Get the number of additional lectures you need to attend!
+
+---
+
+### 📁 Project Structure
