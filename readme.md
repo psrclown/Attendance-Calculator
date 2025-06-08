@@ -23,7 +23,7 @@ A simple web application to help students calculate how many more lectures they 
 ### 📷 Screenshot
 
 > <p align="center">
-  <img src="https://media-hosting.imagekit.io/5e11e6fae4894fbe/Screenshot%202025-05-02%20at%2010.10.09%E2%80%AFAM.png?Expires=1840768822&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ksoOmqdEtr0oocNPNgoHUIYT4USTUkhWkVR~1msyuIapV-aqEzqWTEGH6e~hS-c6-8Ze19rastM74Ku1dRH7fWVU9CNN9QzM2mf7t0Fjn0hejBpT7USW7caylKilU3LyenOCMhtXk~1ZS~Ew39RkAhHRKY9IZu~hen5qsDkyRB2QedKOS7U1oIblcJxBfzoclf2QjMSuAcVmv4iWlfqxrVqgcGj4PCoYxH2LvyAdWb3JR242x1PheRVVJqS-sNFrjuradGON6Tm1A77HiunAMzlxQp-Ixk1ecR7WXfNzW3DK6kuw9a02pGIRj~ThuYO2jMSsH2KYvbrm~lDH6cmLiQ__" alt="Spotify Clone Screenshot" width="700"/>
+  <img src="https://res.cloudinary.com/dvzwgucdm/image/upload/v1749356641/Screenshot_2025-06-08_at_9.53.35_AM_oaljmc.png" alt="Attendance Counter" width="700"/>
 </p>
 
 ---
