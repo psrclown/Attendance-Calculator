@@ -12,6 +12,13 @@ A simple web application to help students calculate how many more lectures they 
 
 ---
 
+
+<p align="center">
+  <a href="https://attendancecounter-psrclown.netlify.app/" target="_blank">
+    🔗 <strong>Live Demo</strong>
+  </a>
+</p>
+
 ### 🛠️ Tech Stack
 
 - **HTML5** – Structure of the page
